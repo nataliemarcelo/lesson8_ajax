@@ -1,22 +1,22 @@
 ## Project Name:  Seminole Movie Connection Application using TMDB API
 
 ### Course Title:
-LIS 2360:  Web Application Development
+LIS 2360: Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Natalie Marcelo
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment uses jQuery and AJAX methods to create an application that acts like a internet movie databse.
+By editing the HTML and JS documents, individuals can have access to movie data provided by TMBD.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://nataliemarcelo.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to link my application to recieve JSON data information.
+2. I was able to better my knowledge on GitHub and used it in connection with my application.
+3. I learned how to use AJAX methods and how to better my jQuery skills.
